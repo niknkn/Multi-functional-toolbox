@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>h-c.qss</file>
+        <file>../../qtimage/R-C.bmp</file>
+    </qresource>
+</RCC>

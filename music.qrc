@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../qtimage/bofang.bmp</file>
+        <file>../../qtimage/bofanging.bmp</file>
+        <file>../../qtimage/next.bmp</file>
+        <file>../../qtimage/prov.bmp</file>
+        <file>../../qtimage/sousuo - 副本.bmp</file>
+        <file>music.qss</file>
+        <file>../../qtimage/yinliang.bmp</file>
+    </qresource>
+</RCC>

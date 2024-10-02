@@ -1,0 +1,52 @@
+QHeaderView::section
+{
+        background:rgb(169, 255, 164);
+        border: none;
+}
+
+
+#tableView
+{
+        background: rgb(55,55,55);
+}
+#tableView
+{
+    selection-background-color:rgb(255,0,0);
+    background-color:rgb(50,50,50);
+    border:1px solid rgb(70,70,70);
+    color:rgb(200,200,200)
+}
+
+#tableView::item
+{
+       border:1px solid rgb(65,65,65);
+        color:rgb(200,200,200);
+
+}
+#tableView::item:hover
+{
+    background-color: rgb(30,30,30);
+    font: 75 9pt "Microsoft YaHei";
+    color:rgb(31,163,246);
+}
+#tableView::item::selected
+{
+    background-color: rgb(30,30,30);
+    font: 75 9pt "Microsoft YaHei";
+    color:rgb(31,163,246);
+}
+
+#tableView::section{
+    background-color:rgb(90,90,90);
+    color:rgb(200,200,200);
+    border:1px solid rgb(60,60,60);
+    border-bottom:1px solid rgb(70,70,70);
+    height:27px;
+    min-width:55px;
+}
+#tableView::section:hover
+{
+    background-color:rgb(80,80,80);
+}
+
+

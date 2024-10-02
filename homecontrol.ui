@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>homecontrol</class>
+ <widget class="QWidget" name="homecontrol">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>730</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1001</width>
+     <height>731</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/qtimage/R-C.bmp);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_1">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>270</y>
+     <width>100</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>红外传感器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>510</y>
+     <width>100</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>烟雾传感器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>860</x>
+     <y>410</y>
+     <width>100</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>报警控制器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>640</y>
+     <width>100</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>煤气传感器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>170</y>
+     <width>120</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>智能空调开关</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_10">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>540</y>
+     <width>80</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>智能开关</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>90</y>
+     <width>80</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>自动窗帘</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>60</y>
+     <width>80</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>自动门窗</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>390</y>
+     <width>100</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>门磁传感器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>120</y>
+     <width>75</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>摄像头</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>350</y>
+     <width>80</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>可视门禁</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_11">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>670</y>
+     <width>80</width>
+     <height>35</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>远程监控</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainwindow.qss</file>
+        <file>../../qtimage/preview2.gif</file>
+    </qresource>
+</RCC>
